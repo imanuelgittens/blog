@@ -3,8 +3,9 @@ path: /real-world-unit-testing-nodejs
 date: 2020-04-13T12:04:17.164Z
 title: Real World Unit Testing with NodeJS
 description: >-
-  A look at unit testing a MongoDB Aggregation Query using NodeJS, Mocha and
-  Chai
+  Software testing is one of the primary on-the-job developer tasks so this
+  article takes an in-depth look at unit testing a MongoDB aggregation query to
+  give readers a better understanding of how testing is done.
 ---
 When I first got a job as a JavaScript Developer (which was not too long ago), all I had was some self-taught coding knowledge gathered from around the internet/books as well as the bits and pieces of JavaScript that I used during my previous job as a WordPress developer. My studies helped me get a general understanding of JavaScript but it had not prepared me for many of the everyday developer tasks with which I was now faced. For example, the first task I was given was to develop a test suite for some MongoDB aggregation queries to ensure that they yielded the correct results. I knew some mongo (thankfully), but I had done zero software testing. Testing, as it turns out, is ridiculously important when writing code and I literally have to write tests with every new piece of code I produce! 
 
